@@ -50,13 +50,26 @@
   <img src="https://img.shields.io/badge/CamemBERT_·_SetFit-FF6F00?style=for-the-badge" alt="CamemBERT SetFit" />
 </p>
 
+
 <h3 align="center">🗄️ Data</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pandas,numpy,selenium,mysql" alt="Data icons" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,mysql" height="48" alt="Python and MySQL" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="48" alt="Selenium" />
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge" alt="BeautifulSoup" />
   <img src="https://img.shields.io/badge/PyMuPDF-3776AB?style=for-the-badge" alt="PyMuPDF" />
   <img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Query" />
 </p>
+
 
 <h3 align="center">☁️ Backend & Cloud</h3>
 <p align="center">
