@@ -34,7 +34,7 @@
 
 <h3 align="center">🧪 ML / DL</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,pandas,numpy" alt="ML icons" /><br/>
+  &emsp;&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,pandas,numpy" alt="ML icons" /><br/>
   <img src="https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge" alt="XGBoost" />
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" alt="CatBoost" />
   <img src="https://img.shields.io/badge/Prophet-0467DF?style=for-the-badge" alt="Prophet" />
